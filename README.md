@@ -1,3 +1,7 @@
+
+Hello.
+I have deployed this using Azure. This is the link: https://agreeable-island-03f10cd10.3.azurestaticapps.net/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
